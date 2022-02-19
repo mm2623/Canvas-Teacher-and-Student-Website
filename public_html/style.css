@@ -13,9 +13,8 @@ body {
   flex-direction: column;
   min-height: 100%;
   scroll-behavior: smooth;
-  background-image: url("/img/51772fa8-c3ec-4e45-b848-499296e1abb6.jpg");
+  background-image: url("img/51772fa8-c3ec-4e45-b848-499296e1abb6.jpg");
   background-size: cover;
-  background-repeat:no-repeat;
 }
 a {
   text-decoration: none;
@@ -153,6 +152,9 @@ nav li a {
 .header-contact {
   text-align: center;
   color: #68d46e;
+}
+.link{
+  overflow-wrap: break-word;
 }
 input[type="text"],
 select,
