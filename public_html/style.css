@@ -192,6 +192,9 @@ footer {
 }
 
 @media only screen and (max-width: 959px) {
+  body {
+    background-size: 100% 850px;
+  }
   #header {
     background-color: #36393e;
   }
