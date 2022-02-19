@@ -2,7 +2,7 @@
     <div class="container-contact">
 		<h1 class="header-contact">Contact Us</h1>
     <p><u>Sidd Plaza, 500 Rt 33 W Suite LLA, Millstone, New Jersey 08535, United States</u></p>
-    <form method="mailto:abdul.mannan12@outlook.com" >
+    <form method="#" >
 
       <label for="name">*Name</label>
       <input type="text" id="name" name="name" placeholder="Your name...">
@@ -15,7 +15,6 @@
 
       <label for="message">*Message</label>
       <textarea id="subject" name="message" placeholder="Your Message..." style="height:144px"></textarea>
-      <label for="message-check">1000 characters remaining</label>
 
       <input type="submit" value="Submit">
 
