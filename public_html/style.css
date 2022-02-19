@@ -232,4 +232,8 @@ footer {
   #dash.active #list {
     display: none;
   }
+  .container-current-jobs {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
 }
