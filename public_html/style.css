@@ -105,7 +105,10 @@ nav li a {
   margin-top: 2%;
   margin-bottom: 2%;
   padding: 10px;
-  background-color: #45a049;
+  /*background-color: #45a049;*/
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(1rem);
+  -webkit-backdrop-filter: blur(1rem);
   border-radius: 10px;
 }
 .tab h1{
@@ -130,7 +133,10 @@ nav li a {
   margin-top: 2%;
   margin-bottom: 2%;
   padding: 10px;
-  background-color: #45a049;
+  /*background-color: #45a049;*/
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(1rem);
+  -webkit-backdrop-filter: blur(1rem);
   border-radius: 10px;
 }
 .header-current-jobs {
@@ -144,7 +150,10 @@ nav li a {
   margin-top: 2%;
   margin-bottom: 2%;
   padding: 10px;
-  background-color: #45a049;
+  /*background-color: #45a049;*/
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(1rem);
+  -webkit-backdrop-filter: blur(1rem);
   border-radius: 10px;
 }
 .container-contact p{
